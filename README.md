@@ -18,11 +18,14 @@ Welcome to my GitHub portfolio! I am Bilal Aslam, a passionate Flutter and Andro
 
 ## Projects
 
-### [Project 1: Awesome Flutter App](https://github.com/yourusername/awesome-flutter-app)
+<!-- ### [Project 1: Awesome Flutter App](https://github.com/yourusername/awesome-flutter-app)
 A brief description of your project. Explain what it does, the technologies used, and any interesting features.
 
 ### [Project 2: Android App Showcase](https://github.com/yourusername/android-app-showcase)
-A brief description of your project. Explain what it does, the technologies used, and any interesting features.
+A brief description of your project. Explain what it does, the technologies used, and any interesting features. -->
+
+### coming soon
+
 
 ## Education
 
