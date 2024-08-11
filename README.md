@@ -13,7 +13,7 @@ Welcome to my GitHub portfolio! I am Bilal Aslam, a passionate Flutter and Andro
 ## Skills
 
 - **Programming Languages**: Flutter, Android Development
-- **Technologies**: Cross-Platform Development, REST APIs
+- **Technologies**: Cross-Platform Development, REST APIs, Firebase, Local Notification
 - **Other Skills**: TCG Gaming, PC Building
 
 ## Projects
