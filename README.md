@@ -25,7 +25,7 @@ A brief description of your project. Explain what it does, the technologies used
 A brief description of your project. Explain what it does, the technologies used, and any interesting features. -->
 
 ### [Project 1: To-Do app with firebase integration and local notifications](https://github.com/bilalaslam19/firebase_todo)
-### [Project 1: Wallpaper app with pexels Api](https://github.com/bilalaslam19/wallpaper_application)
+### [Project 2: Wallpaper app with pexels Api](https://github.com/bilalaslam19/wallpaper_application)
 
 
 ## Education
