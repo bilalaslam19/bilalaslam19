@@ -24,7 +24,7 @@ A brief description of your project. Explain what it does, the technologies used
 ### [Project 2: Android App Showcase](https://github.com/yourusername/android-app-showcase)
 A brief description of your project. Explain what it does, the technologies used, and any interesting features. -->
 
-### coming soon
+### [Project 1: To-Do app with firebase integration and local notifications](https://github.com/bilalaslam19/firebase_todo)
 
 
 ## Education
